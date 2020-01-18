@@ -1,0 +1,8 @@
+Acknowledgements
+This document may refer to documents in Adobe Acrobat Portable Document Format (PDF). (Adobe and Acrobat are registered trademarks of Adobe Systems Incorporated.)
+This document may refer to use of products in the Microsoft Office suite, the Microsoft Team Foundation Server and Visual Studio. (Microsoft, Team Foundation Server and Visual 
+Guidelines for revising this document
+This document is prepared using Microsoft Word. The Arial 11 point font is used. 
+Features of Word can be used to automatically maintain section numbers, table and figure numbers, and fields for information that appears frequently throughout the document.
+This document is set up with margins of 0.75 inches on all sides. This setting will allow the document to be printed on both US Letter and European A4 paper sizes without reformatting.
+This document contains comments to the author with guidelines on using or revising the document. To view this information, turn on the Review features of Word to show the Final Showing Markup view.
